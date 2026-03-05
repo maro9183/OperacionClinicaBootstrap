@@ -1,11 +1,10 @@
 .proceso-card{
-    border:0;
-    box-shadow:0 .5rem 1rem rgba(0,0,0,.05);
+    border:1px solid #e5e7eb;
+    background:#f3f4f6;
     padding:2rem;
+    border-radius:12px;
     position:relative;
     overflow:hidden;
-    border-radius:12px;
-    background:#f8f9fa;
 }
 
 .numero-proceso{
@@ -20,8 +19,9 @@
 
 .paso-badge{
     background:#2c5282;
-    padding:10px 22px;
+    padding:10px 28px;
     border-radius:30px;
     font-weight:700;
-    margin-bottom:15px;
+    font-size:14px;
+    letter-spacing:.4px;
 }
