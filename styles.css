@@ -141,7 +141,7 @@ font-weight:600;
 
 .card-img-feature{
     width:100%;
-    height:110px;
+    height:100%;
     object-fit:cover;
     border-radius:8px;
 }
